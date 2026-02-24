@@ -7,7 +7,7 @@ This project implements a simplified Decentralized Exchange (DEX) using the Auto
 The implementation features:
 - Non-custodial trading where users retain full control of their assets
 - Permissionless liquidity provision and trading
-- On-chain price discovery through automated market making
+- On-chain price discovery through automated market making 
 - Transparent fee distribution to liquidity providers  
 
 ## Features
