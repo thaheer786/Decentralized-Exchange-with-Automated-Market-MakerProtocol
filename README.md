@@ -9,7 +9,7 @@ The implementation features:
 - Permissionless liquidity provision and trading
 - On-chain price discovery through automated market making 
 - Transparent fee distribution to liquidity providers  
-
+ 
 ## Features
 
 ### Core Functionality
